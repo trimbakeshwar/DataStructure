@@ -1,0 +1,14 @@
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\bin\Debug\net8.0\DataStructureAndAlgorithem.exe
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\bin\Debug\net8.0\DataStructureAndAlgorithem.deps.json
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\bin\Debug\net8.0\DataStructureAndAlgorithem.runtimeconfig.json
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\bin\Debug\net8.0\DataStructureAndAlgorithem.dll
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\bin\Debug\net8.0\DataStructureAndAlgorithem.pdb
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\obj\Debug\net8.0\DataStructureAndAlgorithem.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\obj\Debug\net8.0\DataStructureAndAlgorithem.AssemblyInfoInputs.cache
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\obj\Debug\net8.0\DataStructureAndAlgorithem.AssemblyInfo.cs
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\obj\Debug\net8.0\DataStructureAndAlgorithem.csproj.CoreCompileInputs.cache
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\obj\Debug\net8.0\DataStructureAndAlgorithem.dll
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\obj\Debug\net8.0\refint\DataStructureAndAlgorithem.dll
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\obj\Debug\net8.0\DataStructureAndAlgorithem.pdb
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\obj\Debug\net8.0\DataStructureAndAlgorithem.genruntimeconfig.cache
+D:\coding\DataStructureAndAlgorithem\DataStructureAndAlgorithem\obj\Debug\net8.0\ref\DataStructureAndAlgorithem.dll
